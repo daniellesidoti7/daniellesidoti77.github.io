@@ -1,0 +1,5 @@
+a { color: darkred;
+    text-decoration: none }
+a:hover { color: red }
+body {background: gold; color: black; font-size: 14pt;}
+body {border-style: dotted;} 
